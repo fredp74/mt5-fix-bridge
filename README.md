@@ -106,4 +106,10 @@ Trading is risky and this software is provided as is, without warranty. Test on 
 venue first. You are responsible for every order it sends.
 
 ## License
-MIT
+
+MIT — see LICENSE.
+
+---
+
+*A research project by [Algotradingresearch.com](https://algotradingresearch.com)*
+
