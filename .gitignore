@@ -1,0 +1,7 @@
+config.ini
+store/
+KILL
+__pycache__/
+*.pyc
+*.ex5
+.venv/
