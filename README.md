@@ -1,4 +1,4 @@
-# mt5-fix-bridge
+# MT5-FIX-Bridge
 
 Send orders from a MetaTrader 5 account to any FIX 4.4 venue, and get executions,
 market data and positions back. An MQL5 library/EA talks over a local TCP socket to a
