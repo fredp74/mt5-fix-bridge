@@ -76,7 +76,7 @@ Both modes can run together on the same engine.
 
 ## Routing mode: use FIX instead of CTrade
 `mql5/FixTrade.mqh` gives `CFixTrade`, a CTrade-like class that sends orders to the FIX venue
-instead of the MT5 broker. See `mql5/FixTradeExample.mq5`.
+instead of the MT5 broker. See `mql5/FixTradeExample.mq5` or use `mql5/FixTradeExample.ex5`.
 
 To adapt an existing EA:
 1. Put `FixBridge.mqh` and `FixTrade.mqh` next to the EA.
