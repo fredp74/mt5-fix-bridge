@@ -32,7 +32,7 @@ python -m fixbridge -c config.ini -v             # terminal 2: engine
 
 MT5 side:
 1. Copy `mql5/FixBridge.mqh` and `mql5/FixBridgeEA.mq5` to the same folder, for example
-   `MQL5/Experts/FixBridge/`, then compile the EA in MetaEditor.
+   `MQL5/Experts/FixBridge/`, then compile the EA in MetaEditor or use `mql5/FixBridgeEA.ex5`.
 2. Tools > Options > Expert Advisors: add `127.0.0.1` to the allowed URL list (needed for sockets).
 3. Attach the EA to a chart. Press `B` or `S` for a demo order, `P` for positions.
 
